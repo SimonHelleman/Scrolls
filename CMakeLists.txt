@@ -1,4 +1,4 @@
-cmake_minimum_required(3.27.8)
+cmake_minimum_required(VERSION 3.27.8)
 project(Scrolls)
 
 include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include)
